@@ -1,7 +1,7 @@
 ul{
-    background-color: yellowgreen;
-    padding: 20px;
-    color: white;
+    background-color: olive;
+    padding: 30px;
+    color: rgb(248, 201, 160);
     list-style: none;
     display: flex;
     justify-content: space-evenly;
